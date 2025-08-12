@@ -17,8 +17,8 @@ Examples with varying complexity:
 
 2. Password Strength Test
 Tested using:
-- [Kaspersky Password Checker](https://password.kaspersky.com)
-- [Security.org Password Checker](https://www.security.org/how-secure-is-my-password)
+- [password meter](https://passwordmeter.com/)
+
 
 | Password           | Strength/Score | Time to Crack | Feedback |
 |--------------------|----------------|---------------|----------|
